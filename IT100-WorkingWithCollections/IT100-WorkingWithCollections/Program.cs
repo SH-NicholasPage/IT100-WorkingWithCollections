@@ -9,9 +9,13 @@ namespace IT100_WorkingWithCollections
     {
         public static void Main()
         {
+            //-----DO NOT MODIFY-----
             UseArray();
             UseArrayList();
             UseList();
+            //-----DO NOT MODIFY-----
+
+            
             //TODO: Add benchmark runner here later
         }
 
